@@ -10,11 +10,11 @@ Farmers often face significant crop losses because they cannot identify plant di
 
 Target Users (Personas):
 
-(i)Small-Scale Farmers: Individuals looking for quick, field-side diagnosis of their staple crops without waiting for an expert visit.
+-Small-Scale Farmers: Individuals looking for quick, field-side diagnosis of their staple crops without waiting for an expert visit.
 
-(ii)Home Gardeners: Hobbyists who want to maintain healthy indoor or outdoor plants but lack formal botanical knowledge.
+-Home Gardeners: Hobbyists who want to maintain healthy indoor or outdoor plants but lack formal botanical knowledge.
 
-(iii)Agricultural Extension Officers: Professionals who can use the tool to quickly document and report disease outbreaks in specific regions.
+-Agricultural Extension Officers: Professionals who can use the tool to quickly document and report disease outbreaks in specific regions.
 
 Vision Statement:
 
